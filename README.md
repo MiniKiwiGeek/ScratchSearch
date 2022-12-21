@@ -6,6 +6,7 @@ Simply type the topic you want to search for, and hit the search button. Then fi
 Nope.
 # Why are you doing this when various other forum searchers exist (ocular, scratch addons, etc.)?
 short answer: because fun
+
 long answer: because i wanted to play with google programmable search.
 # Should I switch from another forum searcher to this?
 Definitely not. Things like ocular let you do sooooo much more than this (like statuses, individual post searching, etc.) so I don't recommend it.
