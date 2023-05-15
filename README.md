@@ -1,3 +1,5 @@
+# Important
+This project is no longer being developed. Here's a better forum searcher (not developed by me): https://ocular.jeffalo.net
 # ScratchSearch
 Welcome to ScratchSearch! This is a simple service where you can search for Scratch forum topics.
 # How does it work?
